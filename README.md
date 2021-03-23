@@ -1,6 +1,7 @@
 # Welcome to my Python-Code repo!
 ## Link to GitHub Repo
-[GitHub Repo (CLick Me)](https://github.com/CleanMachine1/Python-Code/)
+[GitHub Repo (Click Me)](https://github.com/CleanMachine1/Python-Code/)
+Or click the "View on GitHub" at the top
 <br> 
 ## Notes from the creator 
 I have published this work as proof of knowledge as everything here has been programmed by me!
@@ -13,5 +14,7 @@ I will add more comments to code if anyone needs help and finds my code examples
 
 I am always looking for helpful crititism with my code or just suggestions for more EXAMPLE pieces 
 
-If you wish to add some comments, please use [this link](https://github.com/CleanMachine1/Python-Code/issues) and create an "issue"
+If you wish to add some comments, please use [this link](https://github.com/CleanMachine1/Python-Code/issues) and create an "issue" and I will review it accordingly
 
+Regards,
+        CleanMachine1
