@@ -1,4 +1,4 @@
-#!/usr/bin/python3.7
+#!/usr/bin/python3
 
 radius = float(input("What is the radius of the circle?"))
 area = 3.14159 * (radius ** 2)
