@@ -16,5 +16,11 @@ I am always looking for helpful crititism with my code or just suggestions for m
 
 If you wish to add some comments, please use [this link](https://github.com/CleanMachine1/Python-Code/issues) and create an "issue" and I will review it accordingly
 
+## Changelog
+
+Here is the changelog documenting every change 
+[CHANGELOG](https://raw.githubusercontent.com/CleanMachine1/Python-Code/main/CHANGELOG)
+<br>
+<br>
 Regards,
         CleanMachine1
