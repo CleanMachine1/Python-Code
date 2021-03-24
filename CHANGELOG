@@ -1,0 +1,42 @@
+### 1.0 - First commit 
+
+Added CircleCalc.py
+Added README.md
+Added datetimeEXAMPLE.py
+Added fizzbuzz.py
+Added stress_test.py
+
+### 1.1 - Added File Manipulation
+
+Changes to README.md
+Added /FileManipulation
+Added Added FileAppendEXAMPLE.py
+Added FileReadEXAMPLE.py
+Added FileWriteEXAMPLE.py
+Added data.txt
+
+Notes: 
+data.txt is simply for user to mess around as a dummy file
+
+### 1.2 - Website
+
+Changes to README.md
+Set Theme to Website
+
+### 1.3 - Random Module
+
+Added /RandomModule
+Added RandomChoiceEXAMPLE.py
+Added RandomFloatEXAMPLE.py
+Added RandomRandintEXAMPLE.py
+Added RandomShuffleEXAMPLE.py
+
+### 1.4 - Changes to Website
+
+Changes to README.md to affect Website
+
+### 1.5 - License and FunctionEXAMPLE
+
+Added License
+Added FunctionEXAMPLE.py
+Changed multiple files changing shebang
