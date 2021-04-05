@@ -42,7 +42,7 @@ Added FunctionEXAMPLE.py
 Changed multiple files changing shebang
 Changes to README.md to include link to CHANGELOG
 
-### 1.7 - GettingUser + shebang
+### 1.6 - GettingUser + shebang
 
 Added GettingUser.py
 Added python shebang to some scripts
