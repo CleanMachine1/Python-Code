@@ -46,3 +46,7 @@ Changes to README.md to include link to CHANGELOG
 
 Added GettingUser.py
 Added python shebang to some scripts
+
+### 1.7 - os.py
+
+Added os.py
